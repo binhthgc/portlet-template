@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="core.model.CoreExample">
+		<field name="id" type="long" />
+		<field name="coreName" type="String" />
+		<field name="coreType" type="int" />
+	</model>
+</model-hints>

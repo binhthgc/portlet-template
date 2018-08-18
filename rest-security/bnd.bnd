@@ -1,0 +1,12 @@
+Bundle-Name: Rest Security
+Bundle-SymbolicName: rest.security
+Bundle-Version: 1.0.0
+Liferay-Releng-Module-Group-Description:
+Liferay-Releng-Module-Group-Title: Sync Connector
+-includeresource:\
+	@commons-codec-[0-9]*.jar,\
+	@google-collections-[0-9]*.jar,\
+	@gson-[0-9]*.jar,\
+	@httpcore-[0-9]*.jar,\
+	@joda-time-[0-9]*.jar,\
+	@jsontoken-[0-9]*.jar

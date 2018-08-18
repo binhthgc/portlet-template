@@ -1,0 +1,4 @@
+Bundle-Name: hook-override
+Bundle-SymbolicName: hook.override
+Bundle-Version: 1.0.0
+Export-Package: core.service.listenner
